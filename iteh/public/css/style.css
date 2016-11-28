@@ -1,0 +1,7 @@
+#headerWrapper
+{
+	height: 350px;
+	background-image: url(../img/river.jpg);
+	background-size: 100% 350px;
+	background-attachment: fixed;
+}
